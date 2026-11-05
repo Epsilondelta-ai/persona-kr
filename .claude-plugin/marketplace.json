@@ -1,0 +1,13 @@
+{
+  "name": "persona-kr",
+  "owner": { "name": "EpsilonDelta", "url": "https://epsilondelta.ai" },
+  "description": "Korean customer personas and lean virtual customer interviews built on NVIDIA Nemotron-Personas-Korea.",
+  "plugins": [
+    {
+      "name": "persona-kr",
+      "source": "./",
+      "description": "Nemotron-Personas-Korea 기반 고객 페르소나 추출(korean-customer-persona)과 린 가상 고객 인터뷰(lean-customer-interview), 가상 고객 에이전트(virtual-customer)",
+      "category": "productivity"
+    }
+  ]
+}

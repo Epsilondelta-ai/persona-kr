@@ -1,0 +1,13 @@
+This repository's code and skill documents are licensed under the MIT License (see LICENSE).
+
+Persona data used by the skills, and the persona records quoted in examples/, come from:
+
+  Nemotron-Personas-Korea, NVIDIA Corporation, version 1.0 (2026-04-20)
+  https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea
+  https://catalog.ngc.nvidia.com/orgs/nvidia/nemotron-personas/resources/nemotron-personas-dataset-ko_kr
+  Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/
+
+The dataset is not redistributed here; the sampler script queries it from Hugging Face.
+Sections marked [추론] in example persona cards are additions written for this repository
+and are not part of the original dataset.

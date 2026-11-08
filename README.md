@@ -25,6 +25,7 @@ NVIDIA [Nemotron-Personas-Korea](https://huggingface.co/datasets/nvidia/Nemotron
 | `skills/lean-customer-interview` | 시뮬레이션(Claude가 인터뷰어), 연습(사용자가 인터뷰어 + 코칭), 스크립트 점검의 세 가지 모드 |
 | `agents/virtual-customer.md` | 페르소나 카드 한 장을 연기하는 서브에이전트. 아첨 방지와 현실성 규칙을 담고 있다 |
 | `examples/dual-income-childcare` | 전체 실행 예시: 수도권 맞벌이 가정의 평일 하원~저녁 문제 인터뷰 5건 |
+| `docs/SESSION-GUIDE.md` | 경로 안내, 다른 세션에서 사용·편집·반영하는 방법 |
 
 ## 설치
 
